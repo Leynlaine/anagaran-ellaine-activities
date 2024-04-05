@@ -1,0 +1,232 @@
+.toktik {
+    position: fixed;
+    top: 0%;
+    width: 96.7%;
+    left: 0%;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    padding: 20px;
+    border: 5px solid #676767;
+}
+
+.foryou {
+    position: fixed;
+    top: 138px;
+    width: 400px;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    margin: -8px;
+    padding: 10px;
+    border: 5px solid #676767;
+}
+
+.following {
+    position: fixed;
+    top: 234px;
+    width: 400px;
+    background-color: rgb(4, 18, 65);;
+    color:aqua;
+    margin: -8px;
+    height: fit-content;
+    padding: 10px;
+    border: 5px solid #676767;
+}
+
+.friends {
+    position: fixed;
+    top: 330px;
+    width: 400px;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    margin: -8px;
+    height: fit-content;
+    padding: 10px;
+    border: 5px solid #676767;
+}
+
+.explore {
+    position: fixed;
+    top: 425px;
+    width: 400px;
+    background-color:  rgb(4, 18, 65);
+    color:aqua;
+    margin: -8px;
+    height: fit-content;
+    padding: 10px;
+    border: 5px solid #676767;
+}
+
+.live {
+    position: fixed;
+    top: 520px;
+    width: 400px;
+    background-color:  rgb(4, 18, 65);
+    color:aqua;
+    margin: -8px;
+    height: fit-content;
+    padding: 10px;
+    border: 5px solid #676767;
+
+}
+
+.upload {
+    position: fixed;
+    top: 25px;
+    width: 75px;
+    left: 83.5%;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    margin: -8px;
+    padding: 10px;
+    border: 5px solid #676767;
+
+}
+
+.login {
+    position: fixed;
+    top: 17px;
+    width: 70px;
+    left: 92%;
+    background-color:  rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid #676767;
+}
+
+.post {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.post1 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post2 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post3 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color:  rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post4 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color:  rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post5 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color:  rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post6 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post7 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color:  rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post8 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post9 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color:  rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.post10 {
+    position: relative;
+    height: 400px;
+    top: 75px;
+    width: 850px;
+    left: 500px;
+    background-color: rgb(4, 18, 65);
+    color:aqua;
+    margin: 0;
+    padding: 10px;
+    border: 5px solid black;
+}
