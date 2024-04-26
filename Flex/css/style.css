@@ -1,0 +1,11 @@
+.flex-container {
+    display: flex;
+    background-color: rgb(233, 12, 148);
+}
+
+.flex-container>div {
+    background-color: cadetblue;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
